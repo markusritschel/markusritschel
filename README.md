@@ -1,6 +1,6 @@
 Hi there 👋
 
-![](profile_deepart.jpg =250x250)
+<img src="profile_deepart.jpg" style="width:400px">
 
 I am Markus, PhD in climate science, pythonist, outdoor enthusiast, musician.
 
