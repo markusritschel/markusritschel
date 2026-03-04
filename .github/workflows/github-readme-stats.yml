@@ -33,7 +33,7 @@ jobs:
 
       - name: extract repo name
         run: |
-          echo "REPO_NAME=${GITHUB_REPOSITORY#*/}" >> $REPO_NAME
+          echo "REPO_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
 
       - name: Generate pin card
         uses: readme-tools/github-readme-stats-action@v1
