@@ -8,6 +8,7 @@ Here on GitHub, I share most of my projects, openly accessible.
 I'm doing my best to follow good coding standards, but beg pardon if I don't always succeed, having acquired most of my coding skills autodidactically ;-)
 
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markusritschel&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markusritschel&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![](profile/pin.svg) -->
+![](profile/stats.svg)
+![](profile/top-langs.svg)
