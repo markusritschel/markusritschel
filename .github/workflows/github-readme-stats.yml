@@ -39,7 +39,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=${{ env.REPO_NAME }}
+          options: username=${{ github.repository_owner }}&repo=${{ env.REPO_NAME }}&theme=slateorange
           path: profile/pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
