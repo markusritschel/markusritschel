@@ -7,8 +7,12 @@ Having acquired a PhD in climate science from the University of Hamburg and the 
 Here on GitHub, I share most of my projects, openly accessible. 
 I'm doing my best to follow good coding standards, but beg pardon if I don't always succeed, having acquired most of my coding skills autodidactically ;-)
 
-***
 
-<!-- ![](profile/pin.svg) -->
+
+### 🌱 My GitHub contributions
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!-- ![](profile/pin.svg) 
 ![](profile/stats.svg)
 ![](profile/top-langs.svg)
+-->
